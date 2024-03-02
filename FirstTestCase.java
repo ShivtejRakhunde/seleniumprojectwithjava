@@ -34,7 +34,7 @@ public class FirstTestCase {
 				delay();
 				
 				//enter email
-				driver.findElement(By.id("ap_email")).sendKeys("utkarshghare0145@gmail.com");
+				driver.findElement(By.id("ap_email")).sendKeys("abc@gmail.com");
 				
 				delay();
 				
@@ -44,7 +44,7 @@ public class FirstTestCase {
 				delay();
 				
 				//enter password
-				driver.findElement(By.id("ap_password")).sendKeys("amaze@ug");
+				driver.findElement(By.id("ap_password")).sendKeys("amazon@pg");
 				
 				delay();
 				
