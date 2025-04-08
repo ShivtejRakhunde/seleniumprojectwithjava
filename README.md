@@ -32,5 +32,5 @@ It performs actions like logging in, searching for a product, adding it to the c
 3. **Download ChromeDriver** and update the path:
    ```java
    System.setProperty("webdriver.chrome.driver", "your_path_here/chromedriver.exe");
-
+4. Run FirstTestCase.java
 ---
